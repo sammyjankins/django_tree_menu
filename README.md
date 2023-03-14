@@ -1,7 +1,5 @@
 <h1 align="center">Django Tree Menu</h1>
 <h2 align="center">
-  
-Menu implemented via template tag.
 
 ![image](https://user-images.githubusercontent.com/26933434/225091788-8263874a-f258-41d3-8bed-e3e52cc3c989.png)
 
